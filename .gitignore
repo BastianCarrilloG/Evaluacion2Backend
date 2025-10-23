@@ -1,0 +1,19 @@
+# Ignorar entorno virtual
+venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de base de datos locales
+db.sqlite3
+
+# Archivos del entorno de VSCode o PyCharm
+.vscode/
+.idea/
+
+# Archivos del sistema
+*.log
+*.tmp
