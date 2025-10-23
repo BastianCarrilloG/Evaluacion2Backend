@@ -3,7 +3,7 @@ Evaluación N°2 – Programación Backend
 Instrucciones de instalación:
 
 Clonar el repositorio desde GitHub:
-https://github.com/BastianCarrilloG/Evaluacion2Backend.git
+https://github.com/BastianCarrilloG/Evaluacion2Backend
 
 cd inventarioEscolar
 
