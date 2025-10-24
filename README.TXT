@@ -26,3 +26,10 @@ Iniciar el servidor:
 python manage.py runserver
 Luego ingresar en el navegador a:
 http://127.0.0.1:8000/admin/
+
+
+
+Credenciales superadmin: Evaluacion
+contraseña superadmin: Evaluacion1234
+
+
